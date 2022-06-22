@@ -1,0 +1,13 @@
+body{
+text-align:center;
+background-color: blue;
+}
+h1{
+    font-size: 50px ;
+    font-family:'Fascinate', cursive;
+    color: white;
+    }
+h2{
+    font-family: 'Roboto Mono', monospace;
+    color: violet;
+}
